@@ -13,6 +13,13 @@ A lightweight, open-source music player built with Electron and React, featuring
 - Secure Electron architecture
 
 ## Screenshots
+![Image](https://github.com/user-attachments/assets/58965f8f-aad5-44ae-bcf2-8829e13c6cea)
+![Image](https://github.com/user-attachments/assets/e75635bc-8312-4aa9-9e3b-36d23e7f88d8)
+![Image](https://github.com/user-attachments/assets/f6329dcc-efd8-4f6a-888f-05c355de4bc7)
+
+
+
+
 
 ## Installation
 
